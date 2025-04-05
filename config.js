@@ -14,13 +14,13 @@ export const config = {
         status: 'active'
     },
     BOOKS_DEV: {
-        host: 'http://localhost:1010'
+        host: 'http://localhost:1100'
     },
     BOOKS_STG: {
-        host: 'http://localhost:2020'
+        host: 'http://localhost:2200'
     },
     BOOKS_PRD: {
-        host: 'http://localhost:3030'
+        host: 'http://localhost:3300'
     }
 }
 
